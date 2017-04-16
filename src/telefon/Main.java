@@ -102,7 +102,6 @@ public class Main {
 
     private static void printContacts() {
         mobilephone.printContacts();
-        System.out.println("Contact list : ");
 
     }
 
